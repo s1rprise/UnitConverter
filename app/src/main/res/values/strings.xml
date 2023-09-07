@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="round_up">Round Up?</string>
+    <string name="result_convert">Value Converted: \n%s km</string>
+    <string name="label">Meter Value</string>
+</resources>
